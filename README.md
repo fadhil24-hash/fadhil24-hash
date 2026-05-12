@@ -27,7 +27,7 @@
 
 # 🎲 Current Project
 - Library Book (Course Project)
-- Bliss Ordering App (Course Project)
+- Bliss Ordering App (Group Course Project)
 - Campus Database System (Course Project)
 
 # 📊 GitHub Stats:
